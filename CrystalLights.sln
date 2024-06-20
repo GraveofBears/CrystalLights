@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.4.33110.190
+VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalLights", "CrystalLights.csproj", "{D181CDA7-EF07-4BBC-B975-2B80FC6BBFAE}"
 EndProject
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2B06308B-0850-453A-A2B0-C3A5DD476B51}
+		SolutionGuid = {D5605F9E-C80B-4146-A995-57ABFEE00E16}
 	EndGlobalSection
 EndGlobal

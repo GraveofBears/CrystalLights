@@ -7,8 +7,8 @@
     <ProjectGuid>{D181CDA7-EF07-4BBC-B975-2B80FC6BBFAE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CrystalArrows</RootNamespace>
-    <AssemblyName>CrystalArrows</AssemblyName>
+    <RootNamespace>CrystalLights</RootNamespace>
+    <AssemblyName>CrystalLights</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <LangVersion>10</LangVersion>
